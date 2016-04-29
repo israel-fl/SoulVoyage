@@ -9,7 +9,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: USC ITP 382
+  companyName: Israel Fl Development
   productName: SoulVoyage
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -89,8 +89,8 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.itp382.SoulVoyage
-  bundleVersion: 0.1
+  bundleIdentifier: com.israel_fl.soulvoyage
+  bundleVersion: 1
   preloadedAssets: []
   metroEnableIndependentInputSource: 0
   metroEnableLowLatencyPresentationAPI: 0
@@ -158,8 +158,8 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/iflor/OneDrive/Documents/SoulVoyage/SoulVoyage/soulvoyage.keystore
+  AndroidKeyaliasName: israelfl
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   androidEnableBanner: 1
@@ -173,7 +173,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 26bb4c311a047487d9c0aa9c11859aca, type: 3}
+      m_Icon: {fileID: 2800000, guid: 8604053550fa78e449050ca7f34acd5f, type: 3}
       m_Width: 128
       m_Height: 128
   - m_BuildTarget: iPhone
